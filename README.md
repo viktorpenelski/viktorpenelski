@@ -1,4 +1,4 @@
-![](8bit.png)
+<img src="./8bit.png" width="360">
 
 <!--
 **viktorpenelski/viktorpenelski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
